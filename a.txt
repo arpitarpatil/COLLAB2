@@ -4,4 +4,12 @@ main()
 printf("Hello world");
 printf("AIML");
 }
+<<<<<<< HEAD
 
+=======
+#include<stdio.h>
+main()
+{
+printf("welcome to gitlab");
+}
+>>>>>>> b1
